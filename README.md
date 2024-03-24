@@ -1,4 +1,6 @@
-# Angular: torne sua aplicação interativa e personalizada com animações
+Repositório destinado a dois cursos de animações.
+
+## Curso 1 - Angular: torne sua aplicação interativa e personalizada com animações
 Neste repositório, você aprenderá como tornar sua aplicação Angular mais interativa e personalizada através da utilização do módulo de animações do Angular. Vamos explorar diversas técnicas e métodos para adicionar animações aos elementos do seu template, proporcionando uma experiência visual atraente para os usuários.
 
 ## Conteúdo
@@ -8,3 +10,17 @@ Neste repositório, você aprenderá como tornar sua aplicação Angular mais in
 - Transições de Estado
 - Estados Reservados
 - Animações de Entrada e Saída
+
+
+## Curso 2 - Angular: Aprimore Suas Técnicas de Animação
+Este curso foi desenvolvido para ajudar você a melhorar suas habilidades de animação no Angular, criando interfaces mais atraentes e dinâmicas. Aprenda a adicionar estilos intermediários às animações, personalizar velocidades e acelerações, criar animações simultâneas, animar elementos aninhados e muito mais.
+## Conteúdo do Curso
+
+- Adicione Estilos Intermediários com Keyframes
+- Perso-alize Velocidade e Aceleração com Cubic-Bezier
+- Agrupe animações para executá-las simultaneamente.
+- Animação de elementos aninhados usando query.
+- Utilize BehaviorSubject para atualizar dados dinamicamente.
+- Adicione sequências de animações com stagger.
+- Desabilite Animações Quando Necessário
+
