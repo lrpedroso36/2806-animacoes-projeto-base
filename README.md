@@ -13,6 +13,7 @@ Neste repositório, você aprenderá como tornar sua aplicação Angular mais in
 
 
 ## Curso 2 - Angular: Aprimore Suas Técnicas de Animação
+Este curso foi desenvolvido para ajudar você a melhorar suas habilidades de animação no Angular, criando interfaces mais atraentes e dinâmicas. Aprenda a adicionar estilos intermediários às animações, personalizar velocidades e acelerações, criar animações simultâneas, animar elementos aninhados e muito mais.
 ## Conteúdo do Curso
 
 - Adicione Estilos Intermediários com Keyframes
